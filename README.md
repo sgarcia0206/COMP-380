@@ -9,17 +9,27 @@ should be sent to the user’s email address.
 Project Description
 
 Objectives
+
   • Experience completing independent / investigative research on a given problem domain to find the appropriate
 solution necessary. You will be required to learn about the domain of your problem, discover possible solutions,
 and implement one.
+
   • Apply learned skills in RAD and Object-Oriented Analysis, Design and Implementation
+  
   • Implementation skills:
+  
     o Proper styling and commenting of code
+    
     o Use JAVA/ Python/C#, etc. APIs
+    
     o Generate documentation for the development team
+    
   • User interface design
+  
     o Incorporate a user-friendly GUI front-end
+    
   • Basic Software Engineering, including
+  
     o Implementing a test plan with high coverage using a test framework in a specific programming language
 that you use in your project
 o Writing documentation for the user
