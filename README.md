@@ -3,5 +3,5 @@
 ## Group Members:
 - Sergio Garcia
 - Nyle Luza
-- Daniel Rutilo 
+- Daniel Rutilo - testing github connectivity.  
 - Manolo Rodriguez
